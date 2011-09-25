@@ -1,0 +1,9 @@
+[dev]
+port: 8888
+log_level: debug
+log_db_collection: Log
+db_name: noteslib_dev
+db_host: localhost:27017
+db_user: 
+db_pass:
+

@@ -1,0 +1,9 @@
+Acknowledgements
+================
+
+The project structure and design was inspired by 1) cyp-project by the cyp-team 
+			              		 2) tornado-boilerplate by bueda
+                                      		 3) tornado-production-skeleton by bdarnell
+
+All these guys provide excellent conventions for building an application with tornado.
+

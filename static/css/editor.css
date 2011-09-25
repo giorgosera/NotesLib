@@ -1,0 +1,14 @@
+body {
+	font-family: Helvetica Neue;
+	font-size: 13px;
+	line-height: normal;
+	padding: 0px;
+	margin: 0;
+}
+
+div.mention {
+	width: 482px;
+	margin-left: 5px;
+	background-color: red;
+	height: 40px;
+}
